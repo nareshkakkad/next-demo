@@ -1,0 +1,14 @@
+npx create-next-app@latest ./  // Create project in existing folder
+Yes / Yes 
+Installing devDependencies:
+- typescript
+- @types/node
+- @types/react
+- @types/react-dom
+- autoprefixer
+- postcss
+- tailwindcss
+- eslint
+- eslint-config-next
+
+npm run dev
